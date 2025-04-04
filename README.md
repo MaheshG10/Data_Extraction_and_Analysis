@@ -67,8 +67,8 @@ This project involves extracting data from a given set of URLs, analyzing the te
 
 ## ▶️ How to Run
 1. Clone the repository:
-git clone https://github.com/your-username/data-extraction-analysis.git
-cd data-extraction-analysis
+- git clone https://github.com/your-username/data-extraction-analysis.git
+- cd data-extraction-analysis
 
 2. Install dependencies:
 pip install -r requirements.txt
